@@ -2,14 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-## actualizado desde hit hub
-
-aqui vamos a poner coosas de relleno
-
-## hola mundo
-
-aca rpobamos alfo que ami no me da 
+## estos cambios son nuevos 
